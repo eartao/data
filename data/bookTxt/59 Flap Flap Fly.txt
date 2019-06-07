@@ -1,0 +1,23 @@
+text_1_1$$Flap, Flap, Fly
+text_2_1$$Mother Duck can walk.   
+text_2_2$$She walks and walks.
+text_2_3$$ She walks by the pond.
+text_3_1$$The little ducks can walk.
+text_3_2$$They walk and walk.
+text_3_3$$They walk by the pond.
+text_4_1$$Mother Duck can eat.   
+text_4_2$$ She eats and eats.
+text_4_3$$ She eats by the pond.
+text_5_1$$The little ducks can eat. 
+text_5_2$$ They eat and eat. 
+text_5_3$$ They eat by the pond.
+text_6_1$$Mother Duck can swim.  
+text_6_2$$She swims and swims.
+text_6_3$$She swims in the pond.
+text_7_1$$The little ducks can swim. 
+text_7_2$$They swim and swim.  
+text_7_3$$ They swim in the pond.
+text_8_1$$Mother Duck can fly.  
+text_9_1$$The little ducks can . . . flap, flap, flap, fly!
+
+

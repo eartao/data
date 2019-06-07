@@ -1,0 +1,17 @@
+text_1_1$$Play and Ride 
+text_2_1$$Look at this little truck. 
+text_2_2$$I can play with this truck. 
+text_3_1$$Look at this big truck. 
+text_3_2$$I can ride in this truck. 
+text_4_1$$Look at this little boat. 
+text_4_2$$I can play with this boat. 
+text_5_1$$Look at this big boat.
+text_5_2$$I can ride in this boat. 
+text_6_1$$Look at this little train. 
+text_6_2$$I can play with this train. 
+text_7_1$$Look at this big train. 
+text_7_2$$We can ride in this train. 
+text_8_1$$Look at this little car. 
+text_8_2$$I can play with this car. 
+text_9_1$$Look at this big car. 
+text_9_2$$We can ride in this car. 

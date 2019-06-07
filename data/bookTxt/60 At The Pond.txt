@@ -1,0 +1,9 @@
+text_1_1$$At The Pond
+text_2_1$$We can see a frog.
+text_3_1$$We can see a turtle.
+text_4_1$$We can see the fish.
+text_5_1$$We can see a fox.
+text_6_1$$We can see the snake.
+text_7_1$$We can see a butterfly.
+text_8_1$$We can see a duck. 
+text_9_1$$We can see the pond!

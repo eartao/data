@@ -1,0 +1,9 @@
+text_1_1$$Playing Together
+text_2_1$$We like to play with the blocks.
+text_3_1$$We like to play with the trucks.
+text_4_1$$We like to play with the dolls.
+text_5_1$$We like to play with a ball.
+text_6_1$$We like to play with the bears.
+text_7_1$$We like to play with the puzzles.
+text_8_1$$We like to play with the cars. 
+text_9_1$$We like to play with the toys.

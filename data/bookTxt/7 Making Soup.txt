@@ -1,0 +1,11 @@
+text_1_1$$Making Soup 
+text_1_1$$Here is the pot for the soup. 
+text_1_1$$Here is the water for the soup. 
+text_1_1$$Here are the beans for the soup. 
+text_1_1$$Here are the potatoes for the soup. 
+text_1_1$$Here are the onions for the soup. 
+text_1_1$$Here is the corn for the soup. 
+text_1_1$$Here are the carrots for the soup. 
+
+text_1_1$$Here is the soup! 
+

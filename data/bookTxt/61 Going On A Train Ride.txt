@@ -1,0 +1,15 @@
+text_1_1$$Going On A Train Ride
+text_2_1$$I like trains. 
+text_2_2$$I am going  on a train ride. 
+text_3_1$$My dad likes trains.
+text_3_2$$He can go on the train ride, too. 
+text_4_1$$My little sister likes trains. 
+text_4_2$$My sister can come  on the train, too.
+text_5_1$$My big brother can ride  on the train. 
+text_5_2$$He likes trains.
+text_6_1$$My Gram can ride  on the train, too. 
+text_6_2$$She loves trains.
+text_7_1$$Gramps can come with us, too.
+text_8_1$$And Bear likes trains. He can ride  on the train, too.
+text_9_1$$Choo!  Choo! 
+

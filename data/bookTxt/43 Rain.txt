@@ -1,0 +1,18 @@
+text_1_1$$Rain 
+text_2_1$$Look at the rain! 
+text_2_2$$The rain is falling on a pig. 
+text_3_1$$Look at the rain! 
+text_3_2$$The rain is falling on the grass. 
+text_4_1$$Look at the rain! 
+text_4_2$$The rain is falling on a frog. 
+text_5_1$$Look at the rain! 
+text_5_2$$The rain is falling on the flowers. 
+text_6_1$$Look at the rain! 
+text_6_2$$The rain is falling on a bird. 
+text_7_1$$Look at the rain! 
+text_7_2$$The rain is falling on the trees. 
+text_8_1$$Look at the rain! 
+text_8_2$$The rain is falling on a dog. 
+text_9_1$$Look at the rain! 
+text_9_2$$The rain is falling on me! 
+

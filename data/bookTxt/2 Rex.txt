@@ -1,0 +1,10 @@
+text_1_1$$Rex 
+text_2_1$$I like to swing. 
+text_3_1$$I like to run. 
+text_4_1$$I like to climb. 
+text_5_1$$I like to hang. 
+text_6_1$$I like to jump. 
+text_7_1$$I like to slide. 
+text_8_1$$I like to ride. 
+text_9_1$$I like to swim! 
+

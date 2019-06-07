@@ -1,0 +1,18 @@
+text_1_1$$So Big! 
+text_2_1$$Look at my hat. 
+text_2_2$$My hat is big. 
+text_3_1$$Look at my coat. 
+text_3_2$$My coat is big. 
+text_4_1$$Look at my bag. 
+text_4_2$$My bag is big. 
+text_5_1$$Look at my bowl. 
+text_5_2$$My bowl is big. 
+text_6_1$$Look at my spoon. 
+text_6_2$$My spoon is big. 
+text_7_1$$Look at my book. 
+text_7_2$$My book is big. 
+text_8_1$$Look at my chair. 
+text_8_2$$My chair is big. 
+text_9_1$$Look at me. 
+text_9_2$$I am?big, too! 
+

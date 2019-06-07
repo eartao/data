@@ -1,0 +1,9 @@
+text_1_1$$Drawing
+text_2_1$$I can draw a mom.
+text_3_1$$I can draw a dad.
+text_4_1$$I can draw a girl.
+text_5_1$$I can draw a boy.
+text_6_1$$I can draw a baby.
+text_7_1$$I can draw a dog.
+text_8_1$$I can draw a cat.
+text_9_1$$I can draw my family!

@@ -1,0 +1,10 @@
+text_1_1$$Hop, Hop, Hop
+text_2_1$$I can hop in the grass.
+text_3_1$$I can hop in the leaves.
+text_4_1$$I can hop on the wall.
+text_5_1$$I can hop on the rocks.
+text_6_1$$I can hop in a puddle.
+text_7_1$$I can hop up the stairs.
+text_8_1$$I can hop, hop, hop on the bed.
+text_9_1$$And I can hop in the tub.
+

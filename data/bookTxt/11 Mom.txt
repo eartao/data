@@ -1,0 +1,10 @@
+text_1_1$$Mom 
+text_2_1$$Mom is walking. 
+text_3_1$$Mom is reading. 
+text_4_1$$Mom is jumping. 
+text_5_1$$Mom is swimming. 
+text_6_1$$Mom is riding. 
+text_7_1$$Mom is shopping. 
+text_8_1$$Mom is eating. 
+text_9_1$$Mom is hugging me. 
+

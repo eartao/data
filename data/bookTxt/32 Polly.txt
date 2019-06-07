@@ -1,0 +1,9 @@
+text_1_1$$Polly
+text_2_1$$Polly likes the banana.
+text_3_1$$Polly likes the carrot.
+text_4_1$$She likes the apple.
+text_5_1$$She likes the tomato.
+text_6_1$$Polly likes the orange.
+text_7_1$$She likes the corn.
+text_8_1$$She likes the flower. 
+text_9_1$$Polly likes the hat!

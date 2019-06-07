@@ -1,0 +1,9 @@
+text_1_1$$Hiding
+text_2_1$$Puff likes to hide in the box.
+text_3_1$$Puff likes to hide in the bag.
+text_4_1$$Puff likes to hide in the closet.
+text_5_1$$Puff likes to hide behind the chair.
+text_6_1$$Puff likes to hide in the basket.
+text_7_1$$Puff likes to hide under the rug.
+text_8_1$$Puff likes to hide under the bed.
+text_9_1$$Puff likes to hide in the bed, too.

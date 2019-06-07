@@ -1,0 +1,9 @@
+text_1_1$$The Hat
+text_2_1$$The bear went in the hat.
+text_3_1$$The fox went in the hat.
+text_4_1$$A rabbit went in the hat.
+text_5_1$$A duck went in the hat.
+text_6_1$$The squirrel went in the hat.
+text_7_1$$A mouse went in the hat.
+text_8_1$$The ant went in the hat. 
+text_9_1$$Pop£¡

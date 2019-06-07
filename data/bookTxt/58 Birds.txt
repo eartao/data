@@ -1,0 +1,10 @@
+text_1_1$$Birds
+text_2_1$$This bird is flying.
+text_3_1$$This bird is swimming.
+text_4_1$$This bird is drinking.
+text_5_1$$This bird is eating.
+text_6_1$$This bird is walking.
+text_7_1$$This bird is running.
+text_8_1$$This bird is sleeping.
+text_9_1$$This bird is talking!
+

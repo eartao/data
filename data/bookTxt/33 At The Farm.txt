@@ -1,0 +1,9 @@
+text_1_1$$At The Farm
+text_2_1$$A cat is  at the farm.
+text_3_1$$And a little kitten is  at the farm, too.
+text_4_1$$A dog is  at the farm.
+text_5_1$$And a little puppy is at the farm, too.
+text_6_1$$A duck is  at the farm.
+text_7_1$$And a little duckling is  at the farm, too.
+text_8_1$$The pig is  at the farm. 
+text_9_1$$And the little piglet is  at the farm, too.

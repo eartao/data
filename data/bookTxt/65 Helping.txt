@@ -1,0 +1,16 @@
+text_1_1$$Helping
+text_2_1$$Look at us! 
+text_2_2We can help make the beds.
+text_3_1$$Look at us! 
+text_3_2$$We can help pick up the books.
+text_4_1$$Look at us! 
+text_4_2$$We can help pick up the toys.
+text_5_1$$We can help feed the cat. 
+text_5_2$$Look at us!
+text_6_1$$We can help wash the dishes.
+text_6_2$$ Look at us!
+text_7_1$$Look at us! 
+text_7_2$$We can help rake the leaves.
+text_8_1$$Look at us!  
+text_8_2$$We can help  carry the bags. 
+text_9_1$$And we can help eat the ice cream, too!

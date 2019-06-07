@@ -1,0 +1,9 @@
+text_1_1$$Packing My Bag
+text_2_1$$I have my pants.
+text_3_1$$I have my shirt.
+text_4_1$$I have my socks.
+text_5_1$$I have my shoes.
+text_6_1$$I have my toothbrush.
+text_7_1$$I have my pajamas.
+text_8_1$$I have my bear. 
+text_9_1$$I have my bag.

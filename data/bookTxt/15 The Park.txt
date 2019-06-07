@@ -1,0 +1,10 @@
+text_1_1$$The Park 
+text_2_1$$I can see the grass. 
+text_3_1$$I can see the f lowers. 
+text_4_1$$I can see the trees. 
+text_5_1$$I can see the birds. 
+text_6_1$$I can see the slide. 
+text_7_1$$I can see the swings. 
+text_8_1$$I can see the children. 
+text_9_1$$I can see the park. 
+

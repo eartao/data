@@ -1,0 +1,9 @@
+text_1_1$$At the Zoo 
+text_2_1$$We can see a monkey. 
+text_3_1$$We can see a snake. 
+text_4_1$$We can see a bear. 
+text_5_1$$We can see a lion. 
+text_6_1$$We can see an elephant. 
+text_7_1$$We can see a giraffe. 
+text_8_1$$We can see a bird. 
+

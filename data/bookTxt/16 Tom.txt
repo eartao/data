@@ -1,0 +1,10 @@
+text_1_1$$Tom 
+text_2_1$$Tom can run. 
+text_3_1$$Tom can play. 
+text_4_1$$Tom can hide. 
+text_5_1$$Tom can eat. 
+text_6_1$$Tom can drink. 
+text_7_1$$Tom can jump. 
+text_8_1$$Tom can sleep. 
+text_9_1$$Tom can purr. 
+

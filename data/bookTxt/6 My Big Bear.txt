@@ -1,0 +1,18 @@
+text_1_1$$My Big Bear 
+text_2_1$$Look at my big bear. 
+text_2_2$$He has a big nose. 
+text_3_1$$Look at my big bear. 
+text_3_2$$He has a big mouth. 
+text_4_1$$Look at my big bear. 
+text_4_2$$He has big eyes. 
+text_5_1$$Look at my big bear. 
+text_5_2$$He has big ears. 
+text_6_1$$Look at my big bear. 
+text_6_2$$He has big arms. 
+text_7_1$$Look at my big bear. 
+text_7_2$$He has big legs. 
+text_8_1$$Look at my big bear. 
+text_8_2$$He has big feet. 
+text_9_1$$Look at my big bear. 
+text_10_1$$He has a little bear. 
+

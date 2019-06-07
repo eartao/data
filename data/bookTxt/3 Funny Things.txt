@@ -1,0 +1,10 @@
+text_1_1$$Funny Things 
+text_2_1$$Look at the funny shoes. 
+text_3_1$$Look at the funny socks. 
+text_4_1$$Look at the funny pants. 
+text_5_1$$Look at the funny shirt. 
+text_6_1$$Look at the funny coat. 
+text_7_1$$Look at the funny wig. 
+text_8_1$$Look at the funny hat. 
+text_9_1$$Look at the funny clown! 
+

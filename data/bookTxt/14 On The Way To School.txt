@@ -1,0 +1,10 @@
+text_1_1$$On the Way to School 
+text_2_1$$I see the sign. 
+text_3_1$$I see the bus. 
+text_4_1$$I see the driver. 
+text_5_1$$I see the children. 
+text_6_1$$I see the school. 
+text_7_1$$I see the playground. 
+text_8_1$$I see the door. 
+text_9_1$$I see my teacher. 
+

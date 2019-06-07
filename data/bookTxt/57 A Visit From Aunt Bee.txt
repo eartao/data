@@ -1,0 +1,16 @@
+text_1_1$$A Visit  from Aunt Bee
+text_2_1$$¡°Aunt Bee is coming!¡± said Mom.
+text_3_1$$Aunt Bee is coming. 
+text_3_2$$We clean the house.
+text_4_1$$Aunt Bee is coming. 
+text_4_2$$We pick some flowers.
+text_5_1$$Aunt Bee is coming. 
+text_5_2$$We blow up balloons.
+text_6_1$$Aunt Bee is coming. 
+text_6_2$$We make a cake.
+text_7_1$$Aunt Bee is coming. 
+text_7_2$$We set the table.
+text_8_1$$Aunt Bee is coming. 
+text_8_2$$We make a card.
+text_9_1$$Aunt Bee is here!
+

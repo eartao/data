@@ -1,0 +1,14 @@
+text_1_1$$Out To Play
+text_2_1$$¡°I want to go out  to play,¡±  said Bunny.
+text_3_1$$¡°You can go out,¡± said Mom. 
+text_3_2$$¡°Get your shoes.¡±
+text_4_1$$Bunny got her shoes.
+text_5_1$$¡°Get your hat, Bunny,¡±  Mom said. 
+text_5_2$$ Bunny got her hat.
+text_6_1$$¡°Get your toys,¡±  said Mom.  
+text_6_2$$Bunny got her toys.
+text_7_1$$Mom said, ¡°Look at the rain. You can not go out to play, Bunny.¡±
+text_8_1$$¡°Look, Mom!¡± Bunny said. 
+text_8_2$$¡°I got my umbrella.¡±
+text_9_1$$And she went out to play.
+

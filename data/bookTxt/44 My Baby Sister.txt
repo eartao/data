@@ -1,0 +1,10 @@
+text_1_1$$My Baby Sister 
+text_2_1$$Look at the ball. 
+text_3_1$$Look at the book. 
+text_4_1$$Look at the bear. 
+text_5_1$$Look at the rattle. 
+text_6_1$$Look at the duck. 
+text_7_1$$Look at the dog. 
+text_8_1$$Look at the baby. 
+text_9_1$$Look at the smile! 
+

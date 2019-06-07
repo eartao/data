@@ -1,0 +1,7 @@
+text_1_1$$At the Market
+text_2_1$$I can see the apples
+text_3_1$$I can see the bananas
+text_4_1$$ I can see the eggs. 
+text_5_1$$ I can see the cheese. 
+text_6_1$$ I can see the milk. 
+text_7_1$$I can see the bread. 

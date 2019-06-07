@@ -1,0 +1,17 @@
+text_1_1$$My Family 
+text_2_1$$This is my mom.
+text_2_2My mom likes to dig. 
+text_3_1$$This is my dad.
+text_3_2$$My dad likes to bake. 
+text_4_1$$This is my sister.
+text_4_2$$My sister likes to sing. 
+text_5_1$$This is my brother.
+text_5_2$$My brother likes to paint. 
+text_6_1$$This is my grandma.
+text_6_2$$My grandma likes to read. 
+text_7_1$$This is my grandpa.
+text_7_2$$My grandpa likes to run. 
+text_8_1$$This is my family.
+text_8_2$$My family likes to eat. 
+text_9_1$$And my family loves to play! 
+
