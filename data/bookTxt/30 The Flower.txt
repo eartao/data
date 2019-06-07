@@ -1,9 +1,0 @@
-text_1_1$$The Flower
-text_2_1$$Here is the pot.
-text_3_1$$Here is the dirt.
-text_4_1$$Here is the seed.
-text_5_1$$Here is the water.
-text_6_1$$Here is the sun.
-text_7_1$$Here is the stem.
-text_8_1$$Here is the leaf. 
-text_9_1$$Here is the flower.

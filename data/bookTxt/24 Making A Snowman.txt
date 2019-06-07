@@ -1,9 +1,0 @@
-text_1_1$$Making A Snowman
-text_2_1$$Look at the snow.
-text_3_1$$Look at the hat.
-text_4_1$$Look at the buttons.
-text_5_1$$Look at the carrot.
-text_6_1$$Look at the banana.
-text_7_1$$Look at the scarf.
-text_8_1$$Look at the stick. 
-text_9_1$$Look at the snowman!

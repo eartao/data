@@ -1,9 +1,0 @@
-text_1_1$$Spots
-text_2_1$$The dog has spots.
-text_3_1$$A cow has spots.
-text_4_1$$The pig has spots.
-text_5_1$$A ladybug has spots.
-text_6_1$$The frog has spots.
-text_7_1$$The fish has spots.
-text_8_1$$The cat has spots.
-text_9_1$$The clown has spots!

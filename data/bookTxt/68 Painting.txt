@@ -1,9 +1,0 @@
-text_1_1$$Painting
-text_2_1$$I can paint a tree.
-text_3_1$$I can paint a f lower.
-text_4_1$$I can paint the house.
-text_5_1$$I can paint a car.
-text_6_1$$I can paint a dog.
-text_7_1$$I can paint a cat.
-text_8_1$$I can paint a family.
-text_9_1$$I can paint a picture!

@@ -1,9 +1,0 @@
-text_1_1$$Getting Ready
-text_2_1$$Look at my pants.
-text_3_1$$Look at my socks.
-text_4_1$$Look at my shoes.
-text_5_1$$Look at my shirt.
-text_6_1$$Look at my cap.
-text_7_1$$Look at my ball.
-text_8_1$$Look at my bat.
-text_9_1$$Look at my dad!

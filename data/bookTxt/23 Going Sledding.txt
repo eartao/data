@@ -1,9 +1,0 @@
-text_1_1$$Going Sledding
-text_2_1$$Look at my pants.
-text_3_1$$Look at my jacket.
-text_4_1$$Look at my socks.
-text_5_1$$Look at my boots.
-text_6_1$$Look at my hat.
-text_7_1$$Look at my mittens.
-text_8_1$$Look at my sled. 
-text_9_1$$Look at me!

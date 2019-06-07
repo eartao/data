@@ -1,9 +1,0 @@
-text_1_1$$The Puppet Show 
-text_2_1$$I can see the children. 
-text_3_1$$I can see the ticket. 
-text_4_1$$I can see the popcorn. 
-text_5_1$$I can see the seats. 
-text_6_1$$I can see the stage. 
-text_7_1$$I can see the puppets. 
-text_8_1$$I can see the show. 
-

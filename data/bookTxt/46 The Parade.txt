@@ -1,9 +1,0 @@
-text_1_1$$The Parade
-text_2_1$$Look at the f lags.
-text_3_1$$Look at the clowns.
-text_4_1$$Look at the band.
-text_5_1$$Look at the truck.
-text_6_1$$Look at the car.
-text_7_1$$Look at the balloons.
-text_8_1$$Look at the people.
-text_9_1$$Look at the parade!

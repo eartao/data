@@ -1,9 +1,0 @@
-text_1_1$$Going On A Vacation
-text_2_1$$We put the bags in the car.
-text_3_1$$We put the toys in the car.
-text_4_1$$We put the blankets in the car.
-text_5_1$$We put the balls in the car.
-text_6_1$$We put the bears in the car.
-text_7_1$$We put the food in the car.
-text_8_1$$We put the dogs in the car.
-text_9_1$$Good-bye!

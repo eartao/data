@@ -1,9 +1,0 @@
-text_1_1$$Little Things
-text_2_1$$I have a little bed.
-text_3_1$$I have a little table.
-text_4_1$$I have a little chair.
-text_5_1$$I have a little lamp.
-text_6_1$$I have a little clock.
-text_7_1$$I have a little stove.
-text_8_1$$I have a little sink. 
-text_9_1$$I have a little house!

@@ -1,9 +1,0 @@
-text_1_1$$Wheels
-text_2_1$$A bike has wheels.
-text_3_1$$A car has wheels.
-text_4_1$$A truck has wheels.
-text_5_1$$A bus has wheels.
-text_6_1$$A van has wheels.
-text_7_1$$A plane has wheels.
-text_8_1$$A train has wheels. 
-text_9_1$$A wheelchair has wheels!

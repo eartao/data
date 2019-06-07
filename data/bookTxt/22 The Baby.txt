@@ -1,9 +1,0 @@
-text_1_1$$The  Baby
-text_2_1$$The baby has a bottle.
-text_3_1$$The baby has a book.
-text_4_1$$The baby has a blanket.
-text_5_1$$The baby has a block.
-text_6_1$$The baby has a bear.
-text_7_1$$The baby has a duck.
-text_8_1$$The baby has a toy. 
-text_9_1$$The baby has a smile!

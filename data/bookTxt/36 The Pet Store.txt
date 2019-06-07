@@ -1,9 +1,0 @@
-text_1_1$$The Pet Store
-text_2_1$$Here is a kitten.
-text_3_1$$Here is a puppy.
-text_4_1$$Here is a fish.
-text_5_1$$Here is a frog.
-text_6_1$$Here is a gerbil.
-text_7_1$$Here is a bird.
-text_8_1$$Here is a snake. 
-text_9_1$$Here is a bunny.

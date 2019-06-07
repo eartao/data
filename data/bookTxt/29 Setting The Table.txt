@@ -1,9 +1,0 @@
-text_1_1$$Setting The Table
-text_2_1$$Here is the mat.
-text_3_1$$Here is the napkin.
-text_4_1$$Here is the plate.
-text_5_1$$Here is the knife.
-text_6_1$$Here is the fork.
-text_7_1$$Here is the spoon.
-text_8_1$$Here is the glass. 
-text_9_1$$Here is the table.

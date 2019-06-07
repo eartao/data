@@ -1,9 +1,0 @@
-text_1_1$$ Fun at School
-text_2_1$$We read books at school.
-text_3_1$$We write stories at school.
-text_4_1$$We paint pictures at school.
-text_5_1$$We sing songs at school.
-text_6_1$$We eat lunch at school.
-text_7_1$$We play games at school.
-text_8_1$$We make puppets at school.
-text_9_1$$We make friends at school.

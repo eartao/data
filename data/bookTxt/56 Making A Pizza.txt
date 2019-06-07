@@ -1,9 +1,0 @@
-text_1_1$$Making a Pizza
-text_2_1$$Here is the pan.
-text_3_1$$Here is the dough.
-text_4_1$$Here is the sauce.
-text_5_1$$Here is the cheese.
-text_6_1$$Here is the pepperoni.
-text_7_1$$Here is the oven.
-text_8_1$$Here is the pizza.
-text_9_1$$Here is the pan.

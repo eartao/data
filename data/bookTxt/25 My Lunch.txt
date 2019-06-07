@@ -1,9 +1,0 @@
-text_1_1$$My Lunch
-text_2_1$$Here is my apple.
-text_3_1$$Here is my juice.
-text_4_1$$Here is my bread.
-text_5_1$$Here is my cheese.
-text_6_1$$Here is my lettuce.
-text_7_1$$Here is my cookie.
-text_8_1$$Here is my napkin. 
-text_9_1$$Here is my lunch.

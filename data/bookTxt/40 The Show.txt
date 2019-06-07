@@ -1,9 +1,0 @@
-text_1_1$$The Show
-text_2_1$$Come and see the clown.
-text_3_1$$Come and see the horse.
-text_4_1$$Come and see a dog.
-text_5_1$$Come and see a bear.
-text_6_1$$Come and see the lion.
-text_7_1$$Come and see an elephant.
-text_8_1$$Come and see a tiger. 
-text_9_1$$Come and see the show!

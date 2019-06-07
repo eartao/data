@@ -1,9 +1,0 @@
-text_1_1$$Playing with Blocks 
-text_2_1$$¡°Look at the house.  I made it with the blocks,¡±  said Pam.
-text_3_1$$¡°Look at the big wall.  I made it with the blocks,¡± Tim said.
-text_4_1$$   Pam said,  ¡°Look at the road. I made it with the blocks.¡±
-text_5_1$$¡°Look at this tunnel. I made it with the blocks,¡± said Tim.
-text_6_1$$¡°Look!  I made a bridge with the blocks,¡±  said Pam.
-text_7_1$$¡°I made a building with the blocks. Look at this building,¡± Tim said. 
-text_8_1$$¡°We can make a big building,¡±  Pam said.
-text_9_1$$   Oh, no!

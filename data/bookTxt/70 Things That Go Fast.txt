@@ -1,9 +1,0 @@
-text_1_1$$Things That  Go Fast
-text_2_1$$A car can go fast. 
-text_3_1$$The plane can go fast.
-text_4_1$$A train can go fast.
-text_5_1$$The bus can go fast.
-text_6_1$$A boat can go fast.
-text_7_1$$A truck can go fast.
-text_8_1$$A bike can go fast.
-text_9_1$$I can go fast!

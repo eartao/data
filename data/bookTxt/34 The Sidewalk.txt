@@ -1,9 +1,0 @@
-text_1_1$$The Sidewalk
-text_2_1$$Look at the bus.
-text_3_1$$Look at the bird.
-text_4_1$$Look at the flower.
-text_5_1$$Look at the dog.
-text_6_1$$Look at the car.
-text_7_1$$Look at the tree.
-text_8_1$$Look at the rainbow. 
-text_9_1$$Look at the rain£¡
