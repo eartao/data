@@ -3,18 +3,27 @@ package com.data.transfor;
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.util.StringUtils;
 
+import javax.swing.filechooser.FileSystemView;
 import java.io.*;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 public class TransforData1 {
+    public static void main1(String[] args) {
+        FileSystemView fsv = FileSystemView.getFileSystemView();
+        File com=fsv.getHomeDirectory();
+        System.out.println(com.getPath());
+    }
 
 
     public static void main(String[] args) {
-        String bookPath = "C:\\Users\\86181\\Desktop\\data\\bookTxt";
-        String videoPath = "C:\\Users\\86181\\Desktop\\data\\video";
-        String videoPointPath = "C:\\Users\\86181\\Desktop\\data\\videoPoint";
-        String imgPath = "C:\\Users\\86181\\Desktop\\data\\img";
+        FileSystemView fsv = FileSystemView.getFileSystemView();
+        File com=fsv.getHomeDirectory();
+        String desktop = com.getPath();
+        System.out.println(com.getPath());
+        String bookPath = desktop+"\\data\\bookTxt";
+        String imgPath = desktop+"\\data\\img";
 
         StringBuffer bookText = new StringBuffer();
         StringBuffer error = new StringBuffer();
@@ -34,23 +43,27 @@ public class TransforData1 {
             if(file.isDirectory()){
                 FileWriter writer = null;
                 File[] files = file.listFiles();
+                if(null == files || files.length == 0){
+                    System.out.println(file+"文件夹为空");
+                    return;
+                }
                 for (File fi:files) {   //此时都是文件了，没有文件夹
                     boolean falg = true;
                     String bookName = "";
                     if(null == fi || !fi.exists()){
-                        System.out.println(fi+"文件不存在");
+                        System.out.println(false+"--"+fi+"文件不存在");
                         errorNum++;
                         continue;
                     }
                     String name = fi.getName();
                     if(StringUtils.isEmpty(name)){
-                        System.out.println(fi.getAbsolutePath()+"文件不存在");
+                        System.out.println(false+"--"+fi.getAbsolutePath()+"文件不存在");
                         errorNum++;
                         continue;
                     }
                     bookName = name.substring(0,name.lastIndexOf("."));
                     if(StringUtils.isEmpty(bookName)){
-                        System.out.println(fi.getAbsolutePath()+"文件不存在");
+                        System.out.println(false+"--"+fi.getAbsolutePath()+"文件不存在");
                         errorNum++;
                         continue;
                     }
@@ -61,49 +74,66 @@ public class TransforData1 {
                     String lineStr;
 
                     List<JSONObject> listPage = new ArrayList<>();
+                    List<JSONObject> listSection = new ArrayList<>();
 
                     //读取图片
                     File fileImg = new File(imgPath+"\\"+bookName);
                     if(null == fileImg || !fileImg.exists()){
-                        System.out.println("图片文件夹为空："+bookName);
+                        System.out.println(false+"--图片文件夹为空："+bookName);
                         errorNum++;
                         continue;
                     }
-                    String[] list = fileImg.list();
+//                    String[] list = fileImg.list();
+                    File[] list = fileImg.listFiles();
                     if(null == list || list.length == 0){
-                        System.out.println("图片不能为空："+bookName);
+                        System.out.println(false+"--图片文件夹为空："+bookName);
                         errorNum++;
                         continue;
                     }
-                    int lineNum = -1;
-                    int pageNum = 1;
+                    int lineNum = 0;
+                    int pageNum = 0;
+                    HashSet set = new HashSet();
+                    for (int i = 0; i < list.length; i++) {
+                        File file1 = list[i];
+                        set.add(file1.getName());
+
+                    }
                     for (int i = 0;i<list.length;i++){
                         if(!falg){
                             break;
                         }
                         JSONObject page = new JSONObject();
-                        List<JSONObject> listSection = new ArrayList<>();
+                        String jpgName = bookName+"-"+(i+1)+".jpg";
+                        if(!set.contains(jpgName)){
+                            System.out.println(false+"--"+bookName+"图片不存在："+jpgName);
+                            error.append(bookName+"图片不存在："+jpgName+"\n");
+                            errorNum++;
+                            falg = false;
+                            break;
+                        }
                         page.put("image_filename",bookName+"-"+(i+2)+".jpg");
                         page.put("page_number",i+1);
 
-                        while ((lineStr = br.readLine()) != null && !StringUtils.isEmpty(lineStr)){
+                        while ((lineStr = br.readLine()) != null && !lineStr.trim().equals("")){
                             String page_number = "";
                             String sentence_sequence = "";
                             String text = "";
                             JSONObject section = new JSONObject();
                             lineNum++;
-                            //eg:lineStr = "text_1_1$$At the Market"
                             //切割字符串
                             try {
                                 page_number = lineStr.substring(lineStr.indexOf("_") + 1, lineStr.lastIndexOf("_"));//第几页
                                 sentence_sequence = lineStr.substring(lineStr.lastIndexOf("_") + 1, lineStr.indexOf("$"));//第几句
                                 text = lineStr.substring(lineStr.lastIndexOf("$")+1);
                             } catch (Exception e){
-                                System.out.println(bookName+"数据异常,行数："+lineNum);
+                                System.out.println(false+"--"+bookName+"数据异常,行数："+lineNum);
                                 error.append(bookName+"数据异常,行数："+lineNum+"\n");
                                 errorNum++;
                                 falg = false;
                                 break;
+                            }
+                            if (pageNum!=(Integer.parseInt(page_number))) {
+                                listSection = new ArrayList<>();
                             }
                             section.put("audio_filename_A",bookName+"-"+lineNum+".mp3");
                             section.put("section_sequence",1);
@@ -126,7 +156,7 @@ public class TransforData1 {
                         writer = new FileWriter(imgPath+"\\"+bookName+"\\"+bookName+".json");
                         writer.write(object.toJSONString());
                         successNum++;
-                        System.out.println(bookName+"成功------------------------");
+                        System.out.println(true+"--"+bookName+":数据处理完成");
                         object.clear();
                     } else {
                         object.clear();

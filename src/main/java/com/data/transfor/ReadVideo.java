@@ -7,6 +7,8 @@ import it.sauronsoftware.jave.Encoder;
 import it.sauronsoftware.jave.MultimediaInfo;
 import org.springframework.util.StringUtils;
 
+import javax.swing.filechooser.FileSystemView;
+
 /**
  * wav音频文件截取工具
  * （适用于比特率为128kbps的wav音频文件，此类音频文件的头部信息占用长度44字节）
@@ -14,9 +16,13 @@ import org.springframework.util.StringUtils;
 public class ReadVideo {
 
     public static void main(String[] args) {
-        String videoPath = "C:\\Users\\86181\\Desktop\\data\\video";
-        String videoPointPath = "C:\\Users\\86181\\Desktop\\data\\videoPoint";
-        String imgPath = "C:\\Users\\86181\\Desktop\\data\\img";
+        FileSystemView fsv = FileSystemView.getFileSystemView();
+        File com=fsv.getHomeDirectory();
+        String desktop = com.getPath();
+
+        String videoPath = desktop+"\\data\\video";
+        String videoPointPath = desktop+"\\data\\videoPoint";
+        String imgPath = desktop+"\\data\\img";
         try {
             StringBuffer error = new StringBuffer();
             int successnum = 0;
