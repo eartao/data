@@ -1,6 +1,7 @@
 package com.data.transfor;
 
 import java.io.*;
+import java.math.BigDecimal;
 import java.nio.ByteBuffer;
 
 import it.sauronsoftware.jave.Encoder;
@@ -68,12 +69,12 @@ public class ReadVideo {
                             break;
                         }
                         try {
-                            startInt = (int) (Double.parseDouble(start)*100);
-                            endInt = (int) (Double.parseDouble(end)*100);
+                            startInt = getInt(start);
+                            endInt = getInt(end);
                         } catch (Exception e){
                             errornum++;
-                            error.append(bookName+"音频打点数据有问题");
-                            System.out.println(bookName+"音频打点数据有问题");
+                            error.append(bookName+"音频打点数据有问题"+(lineNum+1));
+                            System.out.println(bookName+"音频打点数据有问题"+(lineNum+1));
                             break;
                         }
                         String target = targetFile+"\\"+bookName+"-"+lineNum+".mp3";
@@ -120,6 +121,15 @@ public class ReadVideo {
 
     }
 
+    public static int getInt(String str){
+        BigDecimal big1 = new BigDecimal(Double.valueOf(str)).setScale(2, BigDecimal.ROUND_HALF_UP);
+        BigDecimal big2 = new BigDecimal(Double.valueOf(100));
+        return big1.multiply(big2).intValue();
+    }
+
+    public static void main1(String[] args) {
+        System.out.println(getInt("0.29"));
+    }
     /**
      * 截取wav音频文件
      * @param start  截取开始时间（秒）

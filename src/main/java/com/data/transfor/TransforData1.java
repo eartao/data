@@ -90,8 +90,8 @@ public class TransforData1 {
                         errorNum++;
                         continue;
                     }
-                    int lineNum = 0;
-                    int pageNum = 0;
+                    int lineNum = -1;
+                    int pageNum = -1;
                     HashSet set = new HashSet();
                     for (int i = 0; i < list.length; i++) {
                         File file1 = list[i];
@@ -111,10 +111,14 @@ public class TransforData1 {
                             falg = false;
                             break;
                         }
-                        page.put("image_filename",bookName+"-"+(i+2)+".jpg");
-                        page.put("page_number",i+1);
+                        page.put("image_filename",bookName+"-"+(i+1)+".jpg");
+                        page.put("page_number",i);
 
                         while ((lineStr = br.readLine()) != null && !lineStr.trim().equals("")){
+                            if(lineNum == -1){
+                                lineNum++;
+                                break;
+                            }
                             String page_number = "";
                             String sentence_sequence = "";
                             String text = "";
@@ -153,7 +157,7 @@ public class TransforData1 {
                     if(falg){
                         object.put("book_text",bookText.toString());
                         object.put("pages",listPage);
-                        writer = new FileWriter(imgPath+"\\"+bookName+"\\"+bookName+".json");
+                        writer = new FileWriter(imgPath+"\\"+bookName+"\\info.json");
                         writer.write(object.toJSONString());
                         successNum++;
                         System.out.println(true+"--"+bookName+":数据处理完成");

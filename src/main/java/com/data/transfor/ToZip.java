@@ -1,5 +1,6 @@
 package com.data.transfor;
 
+import javax.swing.filechooser.FileSystemView;
 import java.io.*;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
@@ -8,7 +9,10 @@ public class ToZip {
 
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer();
-        String basePath = "C:\\Users\\86181\\Desktop\\data\\img";
+        FileSystemView fsv = FileSystemView.getFileSystemView();
+        File com=fsv.getHomeDirectory();
+        String desktop = com.getPath();
+        String basePath = desktop+"\\data\\img";
         File file = new File(basePath);
         File[] files = file.listFiles();
         for (File fi:files) {
@@ -18,20 +22,12 @@ public class ToZip {
                 String fileName = f.getName();
                 if(!fileName.contains("-1.jpg")){
                     sb.append(fi.getAbsolutePath()+"\\"+fileName+",");
-//                    f.delete();
                 }
             }
-//            System.out.println(fi.getName()+"删除成功");
             String zip = fi.getAbsolutePath()+"\\"+name;
             try {
                 writeZip(sb,zip);
                 sb.setLength(0);
-//                for (File f:files1) {
-//                    String fileName = f.getName();
-//                    if(!fileName.contains("-1.jpg")&&!fileName.contains("zip")){
-//                        f.delete();
-//                    }
-//                }
                 System.out.println(name+"--打包成功");
             } catch (Exception e){
                 e.printStackTrace();
